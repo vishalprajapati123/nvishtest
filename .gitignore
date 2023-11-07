@@ -1,0 +1,10 @@
+# SQLite database
+db.sqlite3
+*.sqlite3
+
+# virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
