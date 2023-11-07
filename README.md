@@ -68,13 +68,13 @@ pip install -r requirements.txt
 If you're starting a new project:
 
 ```sh
-django-admin startproject myproject .
+git clone https://github.com/vishalprajapati123/nvishtest.git
 ```
 
 Navigate to the project directory:
 
 ```sh
-cd myproject
+cd nvishtest
 ```
 
 ## 4. Migrate the Database
